@@ -66,7 +66,6 @@ We welcome contributions! If you want to help improve a plugin or suggest featur
 
 **Founder:** [Alexander Sánchez](https://profiles.wordpress.org/alexanderwp/)  
 **Technologies:** PHP, Python, Java, AWS Serverless, WordPress Core  
-**Follow us on:** [Twitter](https://twitter.com/alexsanchez-wp) – [Instagram](https://instagram.com/alexsanchez.dev)
 
 ---
 
