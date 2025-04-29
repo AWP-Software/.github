@@ -21,7 +21,7 @@ All plugins are built using clean code, follow modern development standards, and
 
 | Plugin | Description |
 |--------|-------------|
-| 🔑 [Login AWP Pro](https://github.com/AWP-Software/login-awp-pro) | Customize your login page with logos, backgrounds, security, themes, and more. |
+| 🔑 [Login AWP - Free](https://github.com/AWP-Software/Login-AWP_WordPress_Plugin) | Customize your login page with logos, backgrounds, security, themes, and more. |
 | ⏳ Coming soon... | New plugins in development — follow us for updates! |
 
 ---
@@ -35,7 +35,7 @@ Every plugin includes detailed documentation with:
 - Code examples
 - Troubleshooting
 
-📖 View documentation at: [awp.software/docs](https://awp.software/docs)
+📖 View documentation at: [awp.software/docs](https://awp-software.com/docs)
 
 ---
 
@@ -43,8 +43,8 @@ Every plugin includes detailed documentation with:
 
 Most of our products are available through:
 
-- [Envato Market](https://codecanyon.net/user/alexsanchez-wp)
-- [Official website](https://awp.software)
+- [Envato Market](https://codecanyon.net/user/awp-software)
+- [Official website](https://awp-software.com)
 
 Choose between:
 - 🧭 **SaaS license** (monthly/yearly)
