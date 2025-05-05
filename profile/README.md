@@ -35,7 +35,7 @@ Every plugin includes detailed documentation with:
 - Code examples
 - Troubleshooting
 
-📖 View documentation at: [awp.software/docs](https://awp-software.com/docs)
+📖 View documentation at: [awp-software/docs](https://awp-software.com/docs)
 
 ---
 
